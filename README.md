@@ -32,8 +32,8 @@
   <br><br>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rio-323&show_icons=true&theme=radical" alt="GitHub stats" style="width: 49%; height: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-323&layout=compact" alt="Top Langs" style="width: 49%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sean-323&show_icons=true&theme=radical" alt="GitHub stats" style="width: 49%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-323&layout=compact" alt="Top Langs" style="width: 49%; height: auto;"/>
   </div>
 
 </div>
