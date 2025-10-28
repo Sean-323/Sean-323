@@ -3,7 +3,7 @@
 > 기술을 통해 사람들의 삶에 긍정적인 영향을 주는 개발자.  
 > 현장의 불편함을 발견하고 기술로 해결하는 <b>'문제 해결사'</b>입니다.
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kke3305)](https://solved.ac/profile/sean323)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sean323)](https://solved.ac/profile/sean323)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-323&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
