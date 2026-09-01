@@ -1,100 +1,182 @@
-# 김시연 (Siyeon Kim) 👋
+# 김시연 | Siyeon Kim 👋
 
-> 기술을 통해 사람들의 삶에 긍정적인 영향을 주는 개발자.  
-> 현장의 불편함을 발견하고 기술로 해결하는 <b>'문제 해결사'</b>입니다.
-> 
----
-
-### 🚀 교내 활동 (Extracurricular Activities)
-* **중앙대학교 경제연구회 회장** (2017.12 ~ 2018.11)
-    * 침체된 동아리 활성화를 위해, 회계 장부 분석을 통해 재정 비효율 문제를 먼저 파악했습니다.
-    * 데이터를 근거로 구성원들을 설득하여 회칙을 개정하고, 구글 시트와 QR코드를 활용한 '활동 점수' 시스템을 직접 구축하여 기여도를 객관적으로 측정하는 문화를 만들었습니다.
-    * 투명한 소통과 시스템 도입을 통해 동아리 참여율을 높이고, 신입 회원 수를 전년 대비 150% 증가시켰습니다.
+> 현장의 불편함을 발견하고 기술로 해결하는 개발자입니다.  
+> 복잡한 업무를 이해하기 쉬운 시스템으로 바꾸고, 실제 사용자가 체감할 수 있는 개선을 만드는 것을 중요하게 생각합니다.
 
 ---
 
-### 💻 경력 사항 (Work Experience)
-* **(주)다크호스투어** / 경영지원팀 사원 (2023.08 ~ 2024.05)
-    * 노후화된 홈페이지/ERP 시스템의 비효율을 발견하고, 정부 '데이터 바우처' 사업을 직접 발굴하여 개선 프로젝트를 제안했습니다.
-    * PM 역할을 맡아 현업의 추상적인 요구(e.g., "예약이 불편해요")를 '실시간 좌석 조회', '여권 OCR' 등 구체적인 기술 요건으로 번역하며 외주 개발사와의 커뮤니케이션을 주도했습니다.
-    * 결과적으로 전체 시스템 구축 비용의 30%를 절감하고, 예약 처리 시간을 30분에서 5분으로 단축하는 성과를 거두었습니다.
+## 🚀 교내 활동
+
+### 중앙대학교 경제연구회 회장  
+`2017.12 ~ 2018.11`
+
+- 회계 장부를 분석해 불필요한 지출과 불투명한 운영 방식을 파악하고 개선안을 제시했습니다.
+- 구글 시트와 QR코드를 활용한 활동 점수 시스템을 구축해 구성원의 기여도를 객관적으로 관리했습니다.
+- 회칙 개정과 운영 시스템 개선을 통해 신입 회원 수를 전년 대비 150% 증가시켰습니다.
 
 ---
 
-### 🏆 수상 내역 (Awards)
-* **SSAFY 1학기 프로젝트 최우수상**
-    * 📅&nbsp;&nbsp;2025.05.30
-    * 📝&nbsp;&nbsp;<i>AI 헬스케어 어플 '메디밀(Medimeal)'</i>
+## 💻 경력 사항
+
+### (주) 우주텍 · 재직 중
+
+- PHP·MySQL 기반 사내 인트라넷, 업무 매뉴얼 및 통합 관리자센터를 개발하고 있습니다.
+- OpenAI API 기반 자연어 문서 검색을 구축하고, 새로 추가되거나 수정된 문서만 자동 반영하도록 구현했습니다.
+- 조직·직급별 문서 접근 권한과 수정 이력을 적용해 사내 자료를 안전하게 관리할 수 있도록 구성했습니다.
+- 계정·조직·자산·휴가·증명서 업무와 외부 시스템 연동을 전산화하고 개인정보 보호 및 데이터 충돌 방지 기능을 적용했습니다.
+
+<details>
+<summary><strong>(주) 다크호스투어 · 경영지원팀 사원</strong>　<code>2023.08 ~ 2024.05</code></summary>
+
+<br>
+
+- 노후화된 홈페이지와 ERP 시스템에서 발생하는 반복 업무와 비효율을 파악했습니다.
+- 정부 데이터 바우처 사업을 직접 발굴해 시스템 개선 프로젝트를 제안했습니다.
+- 현업에서 전달한 추상적인 요구사항을 실시간 좌석 조회, 여권 OCR 등의 구체적인 기능으로 정리했습니다.
+- 프로젝트 관리 역할을 맡아 현업과 외주 개발사 사이의 요구사항 조율과 커뮤니케이션을 주도했습니다.
+- 전체 시스템 구축 비용을 30% 절감하고 예약 처리 시간을 30분에서 5분으로 단축했습니다.
+
+</details>
 
 ---
 
-### ✨ 주요 프로젝트 (Key Projects)
+## 🏆 수상 내역
 
-* **🔗 연결된 건강 관리 플랫폼 'LinkCare'** (2025.10 ~ 2025.11)
-  > *Backend Core 개발을 담당하며, 유지보수성과 확장성을 최우선으로 설계했습니다. 소셜 로그인에 Strategy Pattern을 도입해 유연성을 확보하고, 파편화된 알림 로직을 중앙 집중형 서비스로 모듈화하여 코드 재사용성을 100%로 끌어올렸습니다. 또한 복잡한 N:M 관계의 그룹 도메인을 설계하며 데이터 무결성을 보장했습니다.*
+### SSAFY 1학기 프로젝트 최우수상
 
-* **🤔 Green AI 솔루션 'SETA'** (2025.08 ~ 2025.09)
-  > *팀장 및 프론트엔드 개발을 담당하며, 백엔드 팀이 구축한 초기 아키텍처에 대해 '대규모 트래픽을 감당할 수 있는가?'라는 본질적인 질문을 던졌습니다. 하루 6시간 이상의 치열한 기술 토론을 이끌며 팀이 더 높은 수준의 아키텍처를 고민하게 만들었습니다.*
-
-* **🛠️ 스마트 애착인형 '쏙닥'** (2025.07 ~ 2025.08)
-  > *팀의 반복적인 배포 작업으로 인한 생산성 저하 문제를 해결하기 위해, 경험이 없었음에도 자원하여 Jenkins, Docker, Nginx로 CI/CD 파이프라인을 구축했습니다. 이를 통해 배포 시간을 30분에서 5분으로 단축하고 휴먼 에러를 제거했습니다.*
-
-* **🏆 SSAFY 최우수상 - '메디밀(Medimeal)'** (2025.04 ~ 2025.05)
-  > *Stateless 구조의 JWT 기반 인증 시스템(Spring Security), 이메일 인증, AWS S3를 활용한 이미지 스토리지 등 백엔드 시스템 전체를 설계하고 구축했습니다. 처음 접하는 Vue.js를 빠르게 학습하여 프론트엔드 API 연동까지 담당하며 Full-Stack 역량을 증명했습니다.*
-
-* **💡 KIC 캠퍼스 팀 프로젝트 - 'POPBOB'** (2023.06 ~ 2023.07)
-  > *사용자가 원하는 정보를 얻기 위해 사이트를 이탈하는 문제를 해결하고자 ChatGPT 기반 대화형 검색 도입을 제안하고 구현을 주도했습니다. 새로운 기술로 사용자 경험을 혁신하며 기술적 자신감을 얻고 협업의 가치를 배웠습니다.*
-
-* **🌱 항해99 실전 프로젝트 - 'Cmung'** (2022.11 ~ 2022.12)
-  > *개발자로서의 첫 협업으로, Swagger 도입을 통해 FE/BE 간 소통 비효율을 개선했습니다. 소셜 로그인(JWT)과 이미지 처리(S3)를 직접 구현하며, 이론이 어떻게 사용자의 편리함으로 바뀌는지 직접 경험하며 '함께' 성장하는 즐거움을 배웠습니다.*
+- 수상일: `2025.05.30`
+- 프로젝트: AI 헬스케어 서비스 **Medimeal**
 
 ---
 
-### 🎓 학력 및 교육 (Education & Bootcamps)
-* **SSAFY (삼성 청년 SW 아카데미) 13기** (2025.01 ~ 2025.12)
-* **항해 취업 리부트 코스** (2024.05 ~ 2024.08)
-* **KIC 캠퍼스** (2023.02 ~ 2023.07)
-* **항해99** (2022.09 ~ 2022.12)
-* **중앙대학교 경영학부** (2017.03 ~ 2023.02)
+## ✨ 주요 프로젝트
+
+<details>
+<summary><strong>🔗 연결형 건강 관리 플랫폼 · LinkCare</strong>　<code>2025.10 ~ 2025.11</code></summary>
+
+<br>
+
+- 백엔드 핵심 기능 개발을 담당하며 유지보수성과 기능 확장을 고려한 구조를 설계했습니다.
+- 소셜 로그인에 Strategy Pattern을 적용해 인증 제공자가 추가되더라도 기존 코드를 최소한으로 수정할 수 있도록 개선했습니다.
+- 여러 기능에 흩어져 있던 알림 처리를 하나의 서비스로 통합해 중복 코드를 줄이고 일관된 알림 처리가 가능하도록 구성했습니다.
+- 사용자와 그룹 사이의 복잡한 관계를 설계하고 데이터가 중복되거나 잘못 연결되지 않도록 무결성을 강화했습니다.
+
+</details>
+
+<details>
+<summary><strong>🤔 Green AI 솔루션 · SETA</strong>　<code>2025.08 ~ 2025.09</code></summary>
+
+<br>
+
+- 팀장과 프론트엔드 개발을 담당했습니다.
+- 초기 백엔드 구조에서 대규모 요청 발생 시 문제가 될 수 있는 지점을 발견하고 팀에 설계 검토를 제안했습니다.
+- 백엔드 팀과 데이터 처리 과정 및 병목 가능성을 함께 점검하며 확장성을 고려한 아키텍처 개선 방향을 정리했습니다.
+- 단순한 기능 구현에 그치지 않고 서비스 운영 환경까지 고려하는 기술적 의사결정을 주도했습니다.
+
+</details>
+
+<details>
+<summary><strong>🛠️ 스마트 애착인형 · 쏙닥</strong>　<code>2025.07 ~ 2025.08</code></summary>
+
+<br>
+
+- 반복적인 수동 배포로 인해 개발 시간이 줄어들고 실수가 발생하는 문제를 발견했습니다.
+- Jenkins, Docker, Nginx를 활용해 빌드부터 배포까지 자동으로 처리되는 CI/CD 파이프라인을 구축했습니다.
+- 배포 시간을 30분에서 5분으로 단축하고 수동 작업에서 발생하던 휴먼 에러를 줄였습니다.
+
+</details>
+
+<details>
+<summary><strong>🏆 AI 헬스케어 서비스 · Medimeal</strong>　<code>2025.04 ~ 2025.05</code></summary>
+
+<br>
+
+- Spring Security와 JWT를 활용해 서버에 로그인 상태를 저장하지 않는 인증 시스템을 설계했습니다.
+- 이메일 인증과 AWS S3 기반 이미지 저장 기능을 포함한 주요 백엔드 기능을 구현했습니다.
+- Vue.js를 학습해 프론트엔드 화면과 백엔드 API를 직접 연동했습니다.
+- 백엔드 설계부터 프론트엔드 연동까지 담당하며 서비스의 전체 흐름을 구현했습니다.
+- SSAFY 1학기 프로젝트 최우수상을 수상했습니다.
+
+</details>
+
+<details>
+<summary><strong>💡 대화형 검색 서비스 · POPBOB</strong>　<code>2023.06 ~ 2023.07</code></summary>
+
+<br>
+
+- 사용자가 원하는 정보를 찾기 위해 여러 페이지와 외부 사이트를 이동해야 하는 문제를 발견했습니다.
+- 사용자가 대화하듯 정보를 검색할 수 있도록 ChatGPT 기반 검색 기능을 제안했습니다.
+- 대화형 검색 기능 구현을 주도하며 새로운 AI 기술을 실제 사용자 기능에 적용했습니다.
+
+</details>
+
+<details>
+<summary><strong>🌱 커뮤니티 서비스 · Cmung</strong>　<code>2022.11 ~ 2022.12</code></summary>
+
+<br>
+
+- 프론트엔드와 백엔드 사이에서 API 사용 방법이 명확하게 공유되지 않아 발생하는 협업 문제를 파악했습니다.
+- Swagger를 도입해 API 명세를 한곳에서 확인하고 테스트할 수 있도록 개선했습니다.
+- JWT 기반 소셜 로그인과 AWS S3 이미지 처리 기능을 구현했습니다.
+- 첫 실전 협업 프로젝트를 통해 API 설계와 팀 단위 개발 과정을 경험했습니다.
+
+</details>
 
 ---
 
-### 💻 기술 스택 (Tech Stacks)
+## 🎓 학력 및 교육
 
-<h3>🖥️ Backend</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot&theme=dark">
-</div>
-
-<h3>🌐 Frontend</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=vuejs,react,typescript,javascript,html,css&theme=dark">
-</div>
-
-<h3>🔧 DevOps</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx&theme=dark">
-</div>
-
-<h3>💾 Databases</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark">
-</div>
-
-<h3>🤝 Collaboration</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman&theme=dark">
-</div>
+- **SSAFY 13기** `2025.01 ~ 2025.12`
+- **항해 취업 리부트 코스** `2024.05 ~ 2024.08`
+- **KIC 캠퍼스** `2023.02 ~ 2023.07`
+- **항해99** `2022.09 ~ 2022.12`
+- **중앙대학교 경영학부** `2017.03 ~ 2023.02`
 
 ---
 
-### 📜 자격증 (Certifications)
-* **Adsp** (2025.11.28)
-* **정보처리기사** (2024.12.11)
-* **컴퓨터활용능력 1급** (2024.02.16)
-* **SQL 개발자(SQLD)** (2023.10.06)
+## 🧰 기술 스택
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,mongodb,redis&theme=dark&perline=8" alt="Backend technologies" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vuejs,react,ts,js,html,css&theme=dark&perline=8" alt="Frontend technologies" />
+</p>
+
+### DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx&theme=dark&perline=8" alt="DevOps technologies" />
+</p>
+
+### Collaboration & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman&theme=dark&perline=8" alt="Collaboration tools" />
+</p>
+
+### AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+</p>
 
 ---
 
-### 📫 Contact
-* **Email:** kke3305@naver.com
+## 📜 자격증
+
+- **ADsP** `2025.11.28`
+- **정보처리기사** `2024.12.11`
+- **컴퓨터활용능력 1급** `2024.02.16`
+- **SQL 개발자(SQLD)** `2023.10.06`
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-kke3305%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kke3305@naver.com)
