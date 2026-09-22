@@ -21,8 +21,8 @@
 <!-- WOOJUTECH:START -->
 ### (주) 우주텍 · 전산팀　`2026.07 ~ 현재`
 
-- **사내 업무 플랫폼** — PHP·MySQL 기반 인트라넷, AI 업무 매뉴얼, 관리자센터를 개발하며 계정·조직·자산·좌석·휴가 업무를 통합했습니다.
-- OpenAI Responses API·File Search 기반 자연어 검색, 문서 증분 동기화, 권한별 인용 답변과 휴가 변경 이력 관리를 구축했습니다.
+- **사내 업무 플랫폼** — PHP·MySQL 기반 인트라넷·AI 업무 매뉴얼·관리자센터를 개발해 계정·조직·자산·좌석·휴가 업무를 통합했습니다.
+- OpenAI Responses API·File Search 검색과 함께 GA4·Search Console·Merchant·YouTube·CrUX·PageSpeed를 연동하고 JSON 자동 갱신·40주 Core Web Vitals 추이를 구현했습니다.
 - **산책회 모바일 웹** — 산책·일지·추천 코스·회원·마일리지 UX를 개선하고 NICE SMS 인증과 Cafe24 OAuth 계정 연동을 구현했습니다.
 - 산책일지·마일리지 트랜잭션과 회원·업로드 보안을 구축하고 자동 테스트·로컬 DB·Android 에뮬레이터에서 검증했습니다.
 <!-- WOOJUTECH:END -->
