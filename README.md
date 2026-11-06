@@ -21,8 +21,8 @@
 <!-- WOOJUTECH:START -->
 ### (주) 우주텍 · 전산팀　`2026.07 ~ 현재`
 
-- **사내 업무 플랫폼** — PHP·MySQL 기반 인트라넷·AI 업무 매뉴얼·관리자센터에 공유 회의록·캔버스·Collab 업무 보드와 HWP·HWPX 편집·공유·버전 저장·변경 추적·PDF 출력, 기능별 권한과 암호화 API·모델 설정 관리를 통합했습니다.
-- OpenAI Responses API·File Search·MCP 기반 회의록 AI 의미검색에 현재 권한·원문 재검증, 대화 히스토리와 자동 색인 복구를 구현했습니다. HWP·HWPX 저장·재열기·변경 추적·PDF 생성과 Collab API 8개·화면 72개·기능 흐름 17개의 동등성을 검증했습니다.
+- **사내 업무 플랫폼** — PHP·MySQL 기반 인트라넷·AI 업무 매뉴얼·관리자센터에 공유 회의록·캔버스·Collab 업무 보드와 HWP·HWPX·PDF 편집·공유·버전 저장·변경 추적·OCR·PDF 출력, 기능별 권한과 암호화 API·모델 설정 관리를 통합했습니다.
+- OpenAI Responses API·File Search·MCP 기반 회의록 AI 의미검색에 현재 권한·원문 재검증, 대화 히스토리와 자동 색인 복구를 구현했습니다. HWP·HWPX 저장·재열기·변경 추적과 PDF 본문·페이지 편집·OCR·서식 보존, Collab API 8개·화면 72개·기능 흐름 17개의 동등성을 검증했습니다.
 - **산책회 모바일 웹** — 산책·일지·회원 흐름과 NICE SMS·Cafe24 OAuth를 개선하고, 공식몰 SSO 마일리지 지급을 관리자 설정과 연동했습니다.
 - 회원별 1회 지급·동시 요청 중복 방지와 원장·알림 일관성을 MariaDB·HTTP로 검증하고, Android/iOS 216개 화면과 운영 DB를 분리한 고정 Docker 환경 40개 검사를 통과했습니다.
 <!-- WOOJUTECH:END -->
